@@ -8,6 +8,7 @@
       "ore": "18:30-22:00/3D",
       "festivita": "",
       "allineamento": "C",
+      "dataNotifica": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
     },
     {
@@ -18,6 +19,7 @@
       "ore": "16:30/F-18:30-20:30-22:30",
       "festivita": "",
       "allineamento": "U",
+      "dataNotifica": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
@@ -28,6 +30,7 @@
       "ore": "16:30/F-18:30-20:30-22:30",
       "festivita": "",
       "allineamento": "C",
+      "dataNotifica": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
     },
     {
@@ -38,6 +41,7 @@
       "ore": "16:30/F-18:30-20:30-22:30",
       "festivita": "",
       "allineamento": "U",
+      "dataNotifica": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
@@ -48,6 +52,7 @@
       "ore": "18:00-20:15-22:30",
       "festivita": "",
       "allineamento": "C",
+      "dataNotifica": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
     },
     {
@@ -58,6 +63,7 @@
       "ore": "18:00-20:15-22:30",
       "festivita": "",
       "allineamento": "C",
+      "dataNotifica": "15/01/2026",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     }
   ]
