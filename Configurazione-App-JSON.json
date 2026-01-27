@@ -5,7 +5,7 @@
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "BUEN CAMINO - Checco Zalone",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "16:30/F-18:30-20:30-22:30",
+      "textOre": "16:30/F-20:30-22:30",
       "textFestivita": "",
       "allineamento": "U",
       "dataNotifica": "",
@@ -17,7 +17,7 @@
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "LA GRAZIA - Paolo Sorrentino",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "18:00-20:15-22:30",
+      "textOre": "18:00",
       "textFestivita": "",
       "allineamento": "C",
       "dataNotifica": "",
@@ -26,10 +26,22 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
+      "textInizioSpettacoli": "16:30/F-18:30-20:30-22:30",
+      "textOre": "",
+      "textFestivita": "",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=lFX9IZg6oaI",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "2 CUORI E 2 CAPANNE",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "16:30/F-18:30-20:30-22:30",
+      "textOre": "16:30/F-18:30-20:30",
       "textFestivita": "",
       "allineamento": "C",
       "dataNotifica": "",
@@ -37,28 +49,16 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/2cuori2capanne.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "DAL 29 GENNAIO",
+      "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "MARTY SUPREME - Un film di Josh Safdie",
-      "textInizioSpettacoli": "",
-      "textOre": "",
-      "textFestivita": "",
-      "allineamento": "U",
-      "dataNotifica": "29/01/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/martySupreme.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "DAL 29 GENNAIO",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
-      "textInizioSpettacoli": "",
+      "textTitoloFilm": "SEND HELP",
+      "textInizioSpettacoli": "22:30",
       "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "29/01/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=lFX9IZg6oaI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/send-help.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "DAL 12 FEBBRAIO",
@@ -68,7 +68,7 @@
       "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "27/01/2026",
+      "dataNotifica": "28/01/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     }
