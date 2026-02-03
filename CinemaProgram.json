@@ -3,22 +3,12 @@
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "BUEN CAMINO - Checco Zalone",
-      "textOre": "16:30/F-20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=2E-VdjZMsZA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "LA GRAZIA - Paolo Sorrentino",
-      "textOre": "18:00",
+      "textTitoloFilm": "AGATA CHRISTIAN\nDelitto sulle nevi",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
+      "urlTrailer": "https://www.youtube.com/watch?v=dnEqUgLKwvY",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/agata-cristian.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "In Programmazione",
@@ -33,22 +23,32 @@
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "2 CUORI E 2 CAPANNE",
-      "textOre": "16:30/F-18:30-20:30",
+      "textTitoloFilm": "MARTY SUPREME\nCandidature 9 Premi Oscar",
+      "textOre": "18:30-20:00",
       "allineamento": "C",
-      "dataNotifica": "30/01/2026",
-      "urlTrailer": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/2cuori2capanne.jpg?raw=true"
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0&t=1s",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/marty-supreme.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "In Programmazione",
-      "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "SEND HELP",
-      "textOre": "22:30",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "STRAY KIDS:\nThe dominATE Experience",
+      "textOre": "6-7-8 Febraio 16:30",
       "allineamento": "C",
-      "dataNotifica": "30/01/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=sSk9O013Suo",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/send-help.jpg?raw=true"
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=HCQ4gQ_-U4M",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dominate.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "DAL 12 FEBBRAIO",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "CIME TEMPESTOSE",
+      "textOre": "",
+      "allineamento": "C",
+      "dataNotifica": "12/02/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=jqehZet6PEY",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "DAL 12 FEBBRAIO",
@@ -56,7 +56,7 @@
       "textTitoloFilm": "IL MAGO DEL CREMLINO\nLe origini di Putin",
       "textOre": "",
       "allineamento": "C",
-      "dataNotifica": "30/01/2026",
+      "dataNotifica": "12/02/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     }
