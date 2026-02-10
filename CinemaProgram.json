@@ -61,8 +61,8 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     },
     {
-      "url_immagine_1": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/StandardEpicFilm1.jpg?raw=true",
-      "url_immagine_2": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/StandardEpicFilm2.jpg?raw=true",
+      "urlImmagine1": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/StandardEpicFilm1.jpg?raw=true",
+      "urlImmagine2": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/StandardEpicFilm2.jpg?raw=true",
       "prezzoRidotto": "7.00",
       "prezzoIntero": "8.00",
       "prezzo3D": "9.00"
