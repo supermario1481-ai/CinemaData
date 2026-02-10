@@ -61,9 +61,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     },
     {
-      "prezzoRidotto": "7.00",
-      "prezzoIntero": "8.00",
-      "prezzo3D": "9.00"
+      "prezzoTariffa": "Ridotto 7.00 € - Intero 8.00 € - Ridotto 3D 8.00 € - Intero 3D 9.00 €",
     }
   ]
 }
