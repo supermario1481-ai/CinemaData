@@ -1,7 +1,7 @@
 {
   "listaFilm": [
     {
-      "textStatoProgrammazione": "In Programmazione",
+      "textStatoProgrammazione": "In Programmazione fino al:17/02/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "CIME TEMPESTOSE",
       "textOre": "18:00-20:15-22:30",
@@ -11,7 +11,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "In Programmazione",
+      "textStatoProgrammazione": "In Programmazione fino al: 17/02/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
       "textOre": "16:30/F-18:30-20:30-22:30",
@@ -21,7 +21,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "In Programmazione",
+      "textStatoProgrammazione": "In Programmazione fino al: 17/02/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "AGATA CHRISTIAN\nDelitto sulle nevi",
       "textOre": "16:30/F-18:30-20:30-22:30",
