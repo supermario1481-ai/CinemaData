@@ -1,7 +1,7 @@
 {
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 10/02/2026 al 17/02/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "CIME TEMPESTOSE",
       "textOre": "18:00-20:15-22:30",
@@ -11,49 +11,49 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal 10/02/2026 al 17/02/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
-      "textOre": "16:30/F-18:30-20:30-22:30",
-      "allineamento": "C",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=lFX9IZg6oaI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal 10/02/2026 al 17/02/2026",
-      "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "AGATA CHRISTIAN\nDelitto sulle nevi",
-      "textOre": "16:30/F-18:30-20:30-22:30",
-      "allineamento": "C",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=dnEqUgLKwvY",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/agata-cristian.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "DAL 19 FEBRAIO",
-      "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "IL MAGO DEL CREMLINO\nLe origini di Putin",
-      "textOre": "",
+      "textOre": "18:00",
       "allineamento": "C",
-      "dataNotifica": "19/02/2026",
+      "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "DAL 05 MARZO",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "EPiC:\nElvis Presley in Concert",
-      "textOre": "",
+      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "RENTAL FAMILY\nNelle Vite degli Altri",
+      "textOre": "20:30",
       "allineamento": "C",
-      "dataNotifica": "05/03/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=xsD6nCbQDcA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/elvis.jpg?raw=true"
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=JPPl-aWB1To",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/rental-famili.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "WHISTLE\nIl richiamo della morte",
+      "textOre": "22:30",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=A6dy7cQJRlA",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/whistle.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "HAMNET\nNel nome del figlio",
+      "textOre": "16:30/F-18:30-20:30-22:30",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=Cn0KweKBY1Q",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/hamnet.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "DAL 05 MARZO",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "Un bel giorno",
+      "textTitoloFilm": "UN BEL GIORNO\ndi Fabio De Luigi",
       "textOre": "",
       "allineamento": "U",
       "dataNotifica": "05/03/2026",
