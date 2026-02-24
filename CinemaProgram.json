@@ -1,7 +1,7 @@
 {
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "CIME TEMPESTOSE",
       "textOre": "18:00-20:15-22:30",
@@ -11,37 +11,17 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "IL MAGO DEL CREMLINO\nLe origini di Putin",
-      "textOre": "18:00",
+      "textTitoloFilm": "Scream 7",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
+      "urlTrailer": "https://www.youtube.com/watch?v=iH4O2BxpXJg",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Scream7.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "RENTAL FAMILY\nNelle Vite degli Altri",
-      "textOre": "20:30",
-      "allineamento": "C",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=JPPl-aWB1To",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/rental-family.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "WHISTLE\nIl richiamo della morte",
-      "textOre": "22:30",
-      "allineamento": "U",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=A6dy7cQJRlA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/whistle.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 19/02/2026 al 24/02/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "HAMNET\nNel nome del figlio",
       "textOre": "16:30/F-18:30-20:30-22:30",
@@ -51,10 +31,20 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/hamnet.jpg?raw=true"
     },
     {
+      "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "Lavoreremo da grandi\nAntonio Albanese",
+      "textOre": "In Lavorazione...",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=RkUKy3C5EhU",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lavoreremodagrandi.jpg?raw=true"
+    },
+    {
       "textStatoProgrammazione": "DAL 05 MARZO",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "UN BEL GIORNO\ndi Fabio De Luigi",
-      "textOre": "",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "05/03/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=hKsVbwR2Fyc",
