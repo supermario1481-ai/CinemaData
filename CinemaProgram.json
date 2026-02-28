@@ -8,7 +8,8 @@
       "allineamento": "C",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=jqehZet6PEY",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cime-tempestose.jpg?raw=true",
+      "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
@@ -18,7 +19,8 @@
       "allineamento": "C",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=iH4O2BxpXJg",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Scream7.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Scream7.jpg?raw=true",
+      "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
@@ -28,7 +30,8 @@
       "allineamento": "U",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=Cn0KweKBY1Q",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/hamnet.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/hamnet.jpg?raw=true",
+      "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "",
@@ -38,7 +41,8 @@
       "allineamento": "C",
       "dataNotifica": "",
       "urlTrailer": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lavoreremodagrandi.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lavoreremodagrandi.jpg?raw=true",
+      "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
@@ -48,7 +52,8 @@
       "allineamento": "C",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=RkUKy3C5EhU",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lavoreremodagrandi.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lavoreremodagrandi.jpg?raw=true",
+      "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "DAL 05 MARZO",
@@ -59,6 +64,7 @@
       "dataNotifica": "05/03/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=hKsVbwR2Fyc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/un-bel-giorno.jpg?raw=true",
+      "urlVideo": "https://raw.githubusercontent.com/supermario1481-ai/CinemaData/main/scream7V.mp4",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
   ]
