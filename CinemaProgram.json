@@ -20,7 +20,7 @@
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=iH4O2BxpXJg",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Scream7.jpg?raw=true",
-      "urlVideo": ""
+      "urlVideo": "https://raw.githubusercontent.com/supermario1481-ai/CinemaData/main/Scream71v.mp4"
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 25/02/2026 al 03/03/2026",
@@ -64,7 +64,7 @@
       "dataNotifica": "05/03/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=hKsVbwR2Fyc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/un-bel-giorno.jpg?raw=true",
-      "urlVideo": "https://raw.githubusercontent.com/supermario1481-ai/CinemaData/main/Scream7v.mp4",
+      "urlVideo": "",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
   ]
