@@ -2,10 +2,47 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>MazaraCinema App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MazaraCinema - L'app del cinema a Mazara del Vallo</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f0f2f5; color: #333; text-align: center; }
+        header { background-color: #1a1a1a; color: white; padding: 3rem 1rem; }
+        header h1 { margin: 0; font-size: 2.5rem; color: #ffeb3b; }
+        header p { font-size: 1.2rem; opacity: 0.9; margin-top: 10px; }
+        .container { max-width: 600px; margin: 2rem auto; padding: 2rem; background: white; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .feature-list { text-align: left; display: inline-block; margin: 1rem 0; }
+        .feature-list li { margin-bottom: 10px; font-size: 1.1rem; }
+        .download-btn { display: inline-block; margin-top: 2rem; padding: 15px 30px; background-color: #d32f2f; color: white; text-decoration: none; border-radius: 30px; font-size: 1.2rem; font-weight: bold; transition: transform 0.2s, background 0.2s; }
+        .download-btn:hover { background-color: #b71c1c; transform: scale(1.05); }
+        footer { padding: 2rem; color: #777; font-size: 0.9rem; }
+        a.privacy-link { color: #d32f2f; text-decoration: none; font-weight: bold; }
+    </style>
 </head>
 <body>
-    <h1>Benvenuti su MazaraCinema</h1>
-    <p>Il sito ufficiale della nostra app di cinema.</p>
+
+    <header>
+        <h1>MazaraCinema</h1>
+        <p>Tutto il cinema di Mazara del Vallo direttamente sul tuo smartphone.</p>
+    </header>
+
+    <div class="container">
+        <h2>Scarica l'app ufficiale</h2>
+        <p>Non perdere nessuna novità nel mondo del cinema! Con MazaraCinema puoi:</p>
+        
+        <ul class="feature-list">
+            <li>✅ Controllare la programmazione settimanale della Multisala Grillo e del Cinema Eden</li>
+            <li>✅ Vedere gli orari e le date dei tuoi film preferiti</li>
+            <li>✅ Guardare i trailer con un click direttamente su YouTube</li>
+        </ul>
+
+        <br>
+        <a href="https://play.google.com/store/apps/details?id=com.faugianamario.mazaracinema&hl=it" class="download-btn">Scarica su Google Play</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 MazaraCinema. Tutti i diritti riservati.</p>
+        <p><a href="privacy.html" class="privacy-link">Privacy Policy</a></p>
+    </footer>
+
 </body>
 </html>
