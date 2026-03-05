@@ -1,6 +1,6 @@
 {
-  "NOTE_ISTRUZIONI": "Scrivere 'TUTTI', 'EDEN', 'GRILLO' oppure '0' per aprire",
-  "chiusura": "EDEN",
+  "NOTE_ISTRUZIONI": "Scrivere 'tutti', 'eden', 'grillo' oppure '0' per aprire",
+  "chiusura": "grillo",
   "listaFilm": [
     {
       "textStatoProgrammazione": "Programmazione Dal: 05/03/2026 al 10/03/2026",
