@@ -65,7 +65,8 @@
       "urlTrailer": "https://www.youtube.com/watch?v=WmCQS9XbXeI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/notteprimadegliesami.jpg?raw=true",
       "urlVideo": "",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
+      "chiusura": 1
     }
   ]
 }
