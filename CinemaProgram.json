@@ -1,20 +1,20 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C' ",
-  "chiusura": "0",
+  "chiusura": "tutti",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 05/03/2026 al 10/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "LA SPOSA!",
-      "textOre": "18:00-20:15-22:30",
+      "textTitoloFilm": "REMINDERS OF HIM",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=gahNlrsFGAU",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lasposa.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=vy0OFR9-w6o",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/him.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 05/03/2026 al 10/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "JUMPERS\nUn Salto tra gli Animali",
       "textOre": "16:30F-18:30-20:30",
@@ -22,50 +22,50 @@
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=VGm6ZjFXnbY",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/jumpers.jpg?raw=true",
-      "urlVideo": "https://res.cloudinary.com/drl4ozoos/video/upload/v1772580179/jumpersV_l9pxbt.mp4"
+      "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 05/03/2026 al 10/03/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "SCREAM 7",
-      "textOre": "22:30",
-      "allineamento": "D",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=iH4O2BxpXJg",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/scream7.jpg?raw=true",
-      "urlVideo": "https://res.cloudinary.com/drl4ozoos/video/upload/v1772578098/Scream71v_hemwci.mp4"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 05/03/2026 al 10/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "UN BEL GIORNO\ndi Fabio De Luigi",
       "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "U",
-      "dataNotifica": "05/03/2026",
+      "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=hKsVbwR2Fyc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/un-bel-giorno.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 17/03/2026 al 17/03/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "LO SCURU",
+      "textOre": "20:30",
+      "allineamento": "U",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=yYmFBcjzOEI",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/loscuru.jpg?raw=true",
       "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "DAL 1 APRILE",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "SUPER MARIO GALAXY\nIl Film",
-      "textOre": "",
+      "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "01/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mariofilm.jpg?raw=true",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mario.jpg?raw=true",
       "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "DAL 19 MARZO",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "NOTTE PRIMA DEGLI ESAMI 3.0",
+      "textTitoloFilm": "L'ULTIMA MISSIONE\nProject Hail Mary",
       "textOre": "",
       "allineamento": "U",
       "dataNotifica": "19/03/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=WmCQS9XbXeI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/notteprimadegliesami.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=i6duonsTFFc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cred.jpg?raw=true",
       "urlVideo": "",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
