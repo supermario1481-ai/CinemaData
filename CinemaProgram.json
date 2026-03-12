@@ -1,6 +1,6 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C' ",
-  "chiusura": "tutti",
+  "chiusura": "0",
   "listaFilm": [
     {
       "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
