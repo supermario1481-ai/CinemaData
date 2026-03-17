@@ -3,47 +3,58 @@
   "chiusura": "0",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 19/03/2026 al 24/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "REMINDERS OF HIM",
-      "textOre": "18:30-20:30-22:30",
+      "textTitoloFilm": "L'ULTIMA MISSIONE\nProject Hail Mary",
+      "textOre": "18:00-20:00-22:30",
+      "allineamento": "U",
+      "dataNotifica": "19/03/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=i6duonsTFFc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cred.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 19/03/2026 al 24/03/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "IL BENE COMUNE",
+      "textOre": "18:00-20:30",
       "allineamento": "D",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=vy0OFR9-w6o",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/him.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=Fl15NJKbC7I",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/benecomune.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "JUMPERS\nUn Salto tra gli Animali",
-      "textOre": "16:30F-18:30-20:30",
+      "textStatoProgrammazione": "Programmazione Dal: 19/03/2026 al 24/03/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "UNA BATTAGLIA DOPO L’ALTRA",
+      "textOre": "18:30-22:00",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=VGm6ZjFXnbY",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/jumpers.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=Q7jvtxZZfKk",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/battaglia.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 12/03/2026 al 17/03/2026",
-      "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "UN BEL GIORNO\ndi Fabio De Luigi",
-      "textOre": "16:30F-18:30-20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=hKsVbwR2Fyc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/un-bel-giorno.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 17/03/2026 al 17/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 19/03/2026 al 24/03/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "LO SCURU",
-      "textOre": "20:30",
+      "textTitoloFilm": "IDOLI\nFino all’ultima corsa",
+      "textOre": "22:30",
       "allineamento": "U",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=yYmFBcjzOEI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/loscuru.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=cBi7_3Fd92s",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/idoli.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 19/03/2026 al 24/03/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "JUMPERS\nUn Salto tra gli Animali",
+      "textOre": "SAB/DOM-16:30",
+      "allineamento": "U",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=VGm6ZjFXnbY",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/JUMPERS.jpg?raw=true",
       "urlVideo": ""
     },
     {
@@ -55,17 +66,6 @@
       "dataNotifica": "01/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mario.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "DAL 19 MARZO",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "L'ULTIMA MISSIONE\nProject Hail Mary",
-      "textOre": "",
-      "allineamento": "U",
-      "dataNotifica": "19/03/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=i6duonsTFFc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cred.jpg?raw=true",
       "urlVideo": "",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
