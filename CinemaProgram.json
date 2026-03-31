@@ -1,31 +1,31 @@
 {
-  "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C' ",
-  "chiusura": "0",
+  "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
+  "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 26/03/2026 al 31/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 01/04/2026 al 07/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "L'ULTIMA MISSIONE\nProject Hail Mary",
-      "textOre": "18:00-20:00-22:30",
-      "allineamento": "U",
-      "dataNotifica": "19/03/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=i6duonsTFFc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cred.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 26/03/2026 al 31/03/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "IL DIO DELL'AMORE",
-      "textOre": "18:00-20:30-22:30",
+      "textTitoloFilm": "SUPER MARIO GALAXY\nIl Film",
+      "textOre": "16:30-18:30-20:30-22:30",
       "allineamento": "D",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=YTGl2vk8_1I",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dio.jpg?raw=true",
+      "dataNotifica": "01/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mario.jpg?raw=true",
+      "urlVideo": ""
+    }
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 02/04/2026 al 07/04/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "...CHE DIO PERDONA A TUTTI",
+      "textOre": "16:30-18:30-20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "02/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=3UWOx-Q_q_E",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/chedio.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 26/03/2026 al 31/03/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 02/04/2026 al 07/04/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "CENA DI CLASSE",
       "textOre": "18:30-20:30-22:30",
@@ -36,14 +36,14 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "DAL 2 APRILE",
+      "textStatoProgrammazione": "DAL 22 APRILE",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "...CHE DIO PERDONA A TUTTI",
-      "textOre": "F/16:30-18:30-20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "02/04/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=3UWOx-Q_q_E",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/chedio.jpg?raw=true",
+      "textTitoloFilm": "MICHAEL",
+      "textOre": "",
+      "allineamento": "D",
+      "dataNotifica": "22/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=fF-t5VdkPEI",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/michael.jpg?raw=true",
       "urlVideo": ""
     },
     {
@@ -58,14 +58,14 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "DAL 1 APRILE",
+      "textStatoProgrammazione": "DAL 29 APRILE",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "SUPER MARIO GALAXY\nIl Film",
-      "textOre": "16:30F-18:30-20:30-22:30",
-      "allineamento": "D",
-      "dataNotifica": "01/04/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mario.jpg?raw=true",
+      "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
+      "textOre": "",
+      "allineamento": "U",
+      "dataNotifica": "29/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prada.jpg?raw=true",
       "urlVideo": "",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
