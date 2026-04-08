@@ -1,12 +1,12 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "eden",
+  "chiusura": "0",
   "listaFilm": [
     {
       "textStatoProgrammazione": "Programmazione Dal: 01/04/2026 al 07/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "SUPER MARIO GALAXY\nIl Film",
-      "textOre": "16:30-18:30-20:30-22:30",
+      "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "01/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
@@ -17,7 +17,7 @@
       "textStatoProgrammazione": "Programmazione Dal: 02/04/2026 al 07/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "...CHE DIO PERDONA A TUTTI",
-      "textOre": "16:30-18:30-20:30-22:30",
+      "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "02/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=3UWOx-Q_q_E",
@@ -27,12 +27,12 @@
     {
       "textStatoProgrammazione": "Programmazione Dal: 02/04/2026 al 07/04/2026",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "CENA DI CLASSE",
-      "textOre": "18:30-20:30-22:30",
-      "allineamento": "C",
-      "dataNotifica": "16/03/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=G7_hDKL5A1Y",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/cena.jpg?raw=true",
+      "textTitoloFilm": "THE DRAMA\nUn segreto è per sempre",
+      "textOre": "16:30F-18:30-20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=CazVgJenOXw",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/drama.jpg?raw=true",
       "urlVideo": ""
     },
     {
