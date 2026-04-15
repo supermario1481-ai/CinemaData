@@ -1,9 +1,20 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "tutti",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 09/04/2026 al 14/04/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 16/04/2026 al 21/04/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "LEE CRONIN\nLA MUMMIA",
+      "textOre": "18:00-20:15-22:30",
+      "allineamento": "U",
+      "dataNotifica": "16/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=f47FMs62J8Q",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mummia.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 16/04/2026 al 21/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "SUPER MARIO GALAXY\nIl Film",
       "textOre": "16:30F-18:30-20:30-22:30",
@@ -14,10 +25,10 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 09/04/2026 al 14/04/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textStatoProgrammazione": "Programmazione Dal: 16/04/2026 al 21/04/2026",
+      "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "...CHE DIO PERDONA A TUTTI",
-      "textOre": "16:30F-18:30-20:30-22:30",
+      "textOre": "18:30-20:30",
       "allineamento": "U",
       "dataNotifica": "02/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=3UWOx-Q_q_E",
@@ -25,10 +36,10 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 09/04/2026 al 14/04/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 16/04/2026 al 21/04/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "THE DRAMA\nUn segreto è per sempre",
-      "textOre": "16:30F-18:30-20:30-22:30",
+      "textOre": "16:30F-22:30",
       "allineamento": "U",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=CazVgJenOXw",
@@ -44,17 +55,6 @@
       "dataNotifica": "22/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=fF-t5VdkPEI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/michael.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "DAL 16 APRILE",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "LEE CRONIN\nLA MUMMIA",
-      "textOre": "",
-      "allineamento": "U",
-      "dataNotifica": "16/04/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=f47FMs62J8Q",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mummia.jpg?raw=true",
       "urlVideo": ""
     },
     {
