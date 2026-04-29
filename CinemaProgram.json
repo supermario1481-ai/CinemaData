@@ -2,13 +2,24 @@
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
   "chiusura": "eden",
   "listaFilm": [
-    
+     {
+      "textStatoProgrammazione": "DAL 29 APRILE",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
+      "textOre": "16:30F-18:30-20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "29/04/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prada.jpg?raw=true",
+      "urlVideo": "",
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
+    },
     {
       "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 28/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "MICHAEL",
       "textOre": "18:00-20:15-22:30",
-      "allineamento": "D",
+      "allineamento": "u",
       "dataNotifica": "22/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=fF-t5VdkPEI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/michael.jpg?raw=true",
@@ -16,24 +27,24 @@
     },
      {
       "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 28/04/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "20:15-22:30",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "AMARGA NAVIDAD",
+      "textOre": "",
       "allineamento": "U",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=f47FMs62J8Q",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mummia.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=jPKTKH7PSqU",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/amarga.jpg?raw=true",
       "urlVideo": ""
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 28/04/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "16:30F-18:30",
-      "allineamento": "D",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "MORTAL KOMBAT II",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "u",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=CDO0Eh_e-js",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mario.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=pWsbOQYd5No",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mortal.jpg?raw=true",
       "urlVideo": ""
     },
     {
@@ -57,18 +68,6 @@
       "urlTrailer": "https://www.youtube.com/watch?v=1M61SW1kdYU",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mandalorian.jpg?raw=true",
       "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "DAL 29 APRILE",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
-      "textOre": "16:30F-18:30-20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "29/04/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prada.jpg?raw=true",
-      "urlVideo": "",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
   ]
 }
