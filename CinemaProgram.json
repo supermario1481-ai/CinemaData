@@ -1,7 +1,8 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "eden",
   "listaFilm": [
+    
     {
       "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 28/04/2026",
       "textNomeCinema": "MULTISALA GRILLO",
@@ -59,9 +60,9 @@
     },
     {
       "textStatoProgrammazione": "DAL 29 APRILE",
-      "textNomeCinema": "MAZARACINEMA",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
-      "textOre": "",
+      "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "29/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
