@@ -3,18 +3,18 @@
   "chiusura": "eden",
   "listaFilm": [
      {
-      "textStatoProgrammazione": "DAL 29 APRILE",
+      "textStatoProgrammazione": "Programmazione Dal: 29/04/2026 al 12/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
       "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "U",
-      "dataNotifica": "29/04/2026",
+      "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prada.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 28/04/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 12/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "MICHAEL",
       "textOre": "18:00-20:15-22:30",
