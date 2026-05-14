@@ -1,12 +1,12 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "eden",
+  "chiusura": "0",
   "listaFilm": [
      {
-      "textStatoProgrammazione": "Programmazione Dal: 29/04/2026 al 12/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
-      "textOre": "16:30F-18:30-20:30-22:30",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
@@ -14,7 +14,7 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 22/04/2026 al 12/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "MICHAEL",
       "textOre": "18:00-20:15-22:30",
@@ -22,6 +22,28 @@
       "dataNotifica": "22/04/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=fF-t5VdkPEI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/michael.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "LE CITTÀ DI PIANURA",
+      "textOre": "18:30",
+      "allineamento": "D",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=LVRDH2BEhI0",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lecitta.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "MORTAL KOMBAT II",
+      "textOre": "20:30-22:30",
+      "allineamento": "D",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=pWsbOQYd5No&t=2s",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mortal.jpg?raw=true",
       "urlVideo": ""
     },
     {
@@ -35,37 +57,15 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mandalorian.jpg?raw=true",
       "urlVideo": ""
     },
-     {
-      "textStatoProgrammazione": "Dal 21 Maggio",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "AMARGA NAVIDAD",
-      "textOre": "",
-      "allineamento": "U",
-      "dataNotifica": "21/05/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=jPKTKH7PSqU",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/amarga.jpg?raw=true",
-      "urlVideo": ""
-    },
     {
-      "textStatoProgrammazione": "Dal 11 Giugno",
+      "textStatoProgrammazione": "Programmazione Dal: 04/06/2026 al 07/06/2026",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "DISCLOSURE DAY",
+      "textTitoloFilm": "THE AMAZING DIGITAL CIRCUS",
       "textOre": "",
       "allineamento": "D",
-      "dataNotifica": "11/06/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=6Ssxl3hmLWs",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/disclosure.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal 14 Maggio",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "MOTHER MARY",
-      "textOre": "",
-      "allineamento": "D",
-      "dataNotifica": "14/05/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=sNIUIKZ2vxM",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mother.jpg?raw=true",
+      "dataNotifica": "04/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GrPKxOtj34w",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/circus.jpg?raw=true",
       "urlVideo": "",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€"
     }
