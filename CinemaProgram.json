@@ -1,9 +1,20 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "eden",
   "listaFilm": [
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "The Mandalorian and Grogu",
+      "textOre": "18:00-20:15-22:30",
+      "allineamento": "U",
+      "dataNotifica": "20/05/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=1M61SW1kdYU",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mandalorian.jpg?raw=true",
+      "urlVideo": ""
+    },
      {
-      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
       "textOre": "20:30",
@@ -14,7 +25,7 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "MICHAEL",
       "textOre": "18:00-22:30",
@@ -25,40 +36,29 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "18:30",
+      "textStatoProgrammazione": "Programmazione Dal: 21/05/2026 al 26/05/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "OBSESSION",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=LVRDH2BEhI0",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/lecitta.jpg?raw=true",
+      "urlTrailer": "https://www.youtube.com/watch?v=Y_gMg-ZlAKE",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/obse.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 14/05/2026 al 19/05/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "20:30-22:30",
-      "allineamento": "D",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=pWsbOQYd5No&t=2s",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mortal.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal 20 Maggio",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "The Mandalorian and Grogu",
-      "textOre": "18:00-20:15-22:30",
+      "textStatoProgrammazione": "Dal: 27/05/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "BACKROOMS",
+      "textOre": "",
       "allineamento": "U",
-      "dataNotifica": "20/05/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=1M61SW1kdYU",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mandalorian.jpg?raw=true",
+      "dataNotifica": "27/05/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=Glc2LWw_S5g",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/back.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 04/06/2026 al 07/06/2026",
+      "textStatoProgrammazione": "Dal: 04/06/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "THE AMAZING DIGITAL CIRCUS",
       "textOre": "",
