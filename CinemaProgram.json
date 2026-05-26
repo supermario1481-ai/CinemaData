@@ -1,9 +1,20 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "BACKROOMS",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "27/05/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=Glc2LWw_S5g",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/back.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "The Mandalorian and Grogu",
       "textOre": "18:00-20:15-22:30",
@@ -13,30 +24,8 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mandalorian.jpg?raw=true",
       "urlVideo": ""
     },
-     {
-      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "IL DIAVOLO VESTE PRADA 2",
-      "textOre": "20:30",
-      "allineamento": "U",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=zmBg3eo3PKM",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prada.jpg?raw=true",
-      "urlVideo": ""
-    },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 20/05/2026 al 26/05/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "MICHAEL",
-      "textOre": "18:00-22:30",
-      "allineamento": "u",
-      "dataNotifica": "22/04/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=fF-t5VdkPEI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/michael.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 21/05/2026 al 26/05/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "OBSESSION",
       "textOre": "18:30-20:30-22:30",
@@ -46,15 +35,26 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/obse.jpg?raw=true",
       "urlVideo": ""
     },
-    {
-      "textStatoProgrammazione": "Dal: 27/05/2026",
+     {
+      "textStatoProgrammazione": "Dal: 18/06/2026",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "BACKROOMS",
+      "textTitoloFilm": "TOY STORY 5",
       "textOre": "",
       "allineamento": "U",
-      "dataNotifica": "27/05/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=Glc2LWw_S5g",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/back.jpg?raw=true",
+      "dataNotifica": "18/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=aXukzPfBEOg",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/toy.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Dal: 04/06/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "MASTERS OF THE UNIVERSE",
+      "textOre": "",
+      "allineamento": "u",
+      "dataNotifica": "04/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GkYrEx0vj9M",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/matter.jpg?raw=true",
       "urlVideo": ""
     },
     {
