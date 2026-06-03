@@ -1,6 +1,6 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "tutti",
   "listaFilm": [
     {
       "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
@@ -15,8 +15,8 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "The Mandalorian and Grogu",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
       "textOre": "18:00-20:15-22:30",
       "allineamento": "U",
       "dataNotifica": "20/05/2026",
@@ -26,13 +26,13 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 27/05/2026 al 02/06/2026",
-      "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "OBSESSION",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "SCARY MOVIE",
       "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=Y_gMg-ZlAKE",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/obse.jpg?raw=true",
+      "urlTrailer": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/scary.jpg?raw=true",
       "urlVideo": ""
     },
      {
@@ -59,9 +59,9 @@
     },
     {
       "textStatoProgrammazione": "Dal: 04/06/2026",
-      "textNomeCinema": "MAZARACINEMA",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "THE AMAZING DIGITAL CIRCUS",
-      "textOre": "",
+      "textOre": "18:30",
       "allineamento": "D",
       "dataNotifica": "04/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=GrPKxOtj34w",
