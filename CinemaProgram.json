@@ -1,12 +1,12 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "0",
+  "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 04/06/2026 al 09/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "SCARY MOVIE",
-      "textOre": "18:30-20:30-22:30",
+      "textOre": "18:30-22:30",
       "allineamento": "D",
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=3jqd5-T1GLo",
@@ -14,39 +14,28 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 04/06/2026 al 09/06/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "BACKROOMS",
-      "textOre": "18:30-20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "27/05/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=Glc2LWw_S5g",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/back.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 04/06/2026 al 09/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "THE AMAZING DIGITAL CIRCUS",
-      "textOre": "18:30",
-      "allineamento": "D",
-      "dataNotifica": "04/06/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GrPKxOtj34w",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/circus.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal: 11/06/2026",
-      "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "DISCLOSURE DAY",
-      "textOre": "",
+      "textOre": "20:00-22:30",
       "allineamento": "D",
-      "dataNotifica": "11/06/2026",
+      "dataNotifica": "10/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=POR6dISht_8",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/disclosure.jpg?raw=true",
       "urlVideo": ""
     },
-     {
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "MASTERS OF THE UNIVERSE",
+      "textOre": "20:00",
+      "allineamento": "u",
+      "dataNotifica": "10/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GkYrEx0vj9M",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/matter.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
       "textStatoProgrammazione": "Dal: 18/06/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "TOY STORY 5",
@@ -58,14 +47,25 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Dal: 11/06/2026",
+      "textStatoProgrammazione": "Dal: 25/06/2026",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "MASTERS OF THE UNIVERSE",
+      "textTitoloFilm": "SUPERGIRL",
       "textOre": "",
-      "allineamento": "u",
-      "dataNotifica": "11/06/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GkYrEx0vj9M",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/matter.jpg?raw=true",
+      "allineamento": "U",
+      "dataNotifica": "25/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=UZR5_Qlb7kA",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dc.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Dal: 16/07/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "ODISSEA",
+      "textOre": "",
+      "allineamento": "D",
+      "dataNotifica": "16/07/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/odissea.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlVideo": ""
     }
