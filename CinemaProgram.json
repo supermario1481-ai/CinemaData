@@ -3,18 +3,18 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 18/06/2026 al 23/06/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "SCARY MOVIE",
-      "textOre": "18:30-22:30",
-      "allineamento": "D",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=3jqd5-T1GLo",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/scary.jpg?raw=true",
+      "textTitoloFilm": "TOY STORY 5",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "18/06/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=aXukzPfBEOg",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/toy.jpg?raw=true",
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 18/06/2026 al 23/06/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "DISCLOSURE DAY",
       "textOre": "20:00-22:30",
@@ -24,37 +24,26 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/disclosure.jpg?raw=true",
       "urlVideo": ""
     },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 10/06/2026 al 16/06/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "MASTERS OF THE UNIVERSE",
-      "textOre": "20:00",
-      "allineamento": "u",
-      "dataNotifica": "10/06/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GkYrEx0vj9M",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/matter.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal: 18/06/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "TOY STORY 5",
-      "textOre": "",
-      "allineamento": "U",
-      "dataNotifica": "18/06/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=aXukzPfBEOg",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/toy.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
+     {
       "textStatoProgrammazione": "Dal: 25/06/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "SUPERGIRL",
-      "textOre": "",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "25/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=UZR5_Qlb7kA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dc.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Dal: 01/07/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "MINIONS & MONSTERS",
+      "textOre": "",
+      "allineamento": "u",
+      "dataNotifica": "01/07/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=WxAFKgvt9-4",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mini.jpg?raw=true",
       "urlVideo": ""
     },
     {
@@ -66,6 +55,17 @@
       "dataNotifica": "16/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/odissea.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Dal: 29/07/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "SPIDER-MAN: BRAND NEW DAY",
+      "textOre": "",
+      "allineamento": "D",
+      "dataNotifica": "29/07/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlVideo": ""
     }
