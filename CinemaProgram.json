@@ -3,10 +3,21 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 25/06/2026 al 30/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 01/07/2026 al 07/07/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "MINIONS & MONSTERS",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "u",
+      "dataNotifica": "01/07/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=WxAFKgvt9-4",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mini.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 01/07/2026 al 07/07/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "SUPERGIRL",
-      "textOre": "18:30-20:30-22:30",
+      "textOre": "20:30-22:30",
       "allineamento": "U",
       "dataNotifica": "25/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=UZR5_Qlb7kA",
@@ -14,10 +25,10 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 25/06/2026 al 30/06/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 01/07/2026 al 07/07/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "TOY STORY 5",
-      "textOre": "18:30-20:30",
+      "textOre": "18:30",
       "allineamento": "U",
       "dataNotifica": "18/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=aXukzPfBEOg",
@@ -26,24 +37,13 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 25/06/2026 al 30/06/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "DISCLOSURE DAY",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
       "textOre": "22:30",
       "allineamento": "D",
       "dataNotifica": "10/06/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=POR6dISht_8",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/disclosure.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal: 01/07/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "MINIONS & MONSTERS",
-      "textOre": "",
-      "allineamento": "u",
-      "dataNotifica": "01/07/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=WxAFKgvt9-4",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mini.jpg?raw=true",
       "urlVideo": ""
     },
     {
