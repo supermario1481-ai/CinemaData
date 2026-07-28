@@ -3,10 +3,21 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 16/07/2026 al 21/07/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 29/07/2026 al 04/08/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "SPIDER-MAN: BRAND NEW DAY",
+      "textOre": "18:30 - 22:30",
+      "allineamento": "D",
+      "dataNotifica": "29/07/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
+      "urlVideo": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 16/07/2026 al 04/08/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "ODISSEA",
-      "textOre": "18:30-20:30-22:30",
+      "textOre": "19:00 - 22:00",
       "allineamento": "D",
       "dataNotifica": "16/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
@@ -15,8 +26,8 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 16/07/2026 al 21/07/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "MINIONS & MONSTERS",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
       "textOre": "18:30",
       "allineamento": "u",
       "dataNotifica": "01/07/2026",
@@ -55,17 +66,6 @@
       "dataNotifica": "19/08/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
-      "urlVideo": ""
-    },
-    {
-      "textStatoProgrammazione": "Dal: 29/07/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "SPIDER-MAN: BRAND NEW DAY",
-      "textOre": "",
-      "allineamento": "D",
-      "dataNotifica": "29/07/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlVideo": ""
     }
