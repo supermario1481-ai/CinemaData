@@ -3,10 +3,10 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 29/07/2026 al 04/08/2026",
+      "textStatoProgrammazione": "Programmazione Dal:  al ",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "SPIDER-MAN: BRAND NEW DAY",
-      "textOre": "18:30 - 22:30",
+      "textOre": "22:30",
       "allineamento": "D",
       "dataNotifica": "29/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
@@ -14,10 +14,10 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 16/07/2026 al 04/08/2026",
+      "textStatoProgrammazione": "Programmazione Dal:  al ",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "ODISSEA",
-      "textOre": "19:00 - 22:00",
+      "textOre": "19:30",
       "allineamento": "D",
       "dataNotifica": "16/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
@@ -25,14 +25,14 @@
       "urlVideo": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 16/07/2026 al 21/07/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "18:30",
+      "textStatoProgrammazione": "Programmazione Dal:  al ",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "Oceania",
+      "textOre": "18:30-20:30-22:30 ",
       "allineamento": "u",
       "dataNotifica": "01/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=WxAFKgvt9-4",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mini.jpg?raw=true",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Oceania.jpg?raw=true",
       "urlVideo": ""
     },
     {
