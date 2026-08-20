@@ -11,7 +11,7 @@
       "dataNotifica": "01/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=eJ7K9ZwR7Qg",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Oceania.jpg?raw=true",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 19/08/2026 al 25/08/2026",
@@ -22,7 +22,7 @@
       "dataNotifica": "16/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/odissea.jpg?raw=true",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 19/08/2026 al 25/08/2026",
@@ -33,7 +33,7 @@
       "dataNotifica": "29/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     },
     {
       "textStatoProgrammazione": "Prossimamente",
@@ -44,7 +44,7 @@
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=_maCjCckf0E",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/one.jpg?raw=true",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     },
     {
       "textStatoProgrammazione": "Prossimamente",
@@ -55,7 +55,7 @@
       "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     },
     {
       "textStatoProgrammazione": "Prossimamente",
@@ -67,7 +67,7 @@
       "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
-      "urlVideo": ""
+      "urlPrenotazione": "https://www.liveticket.it/tuocinema/prenotazione"
     }
   ]
 }
