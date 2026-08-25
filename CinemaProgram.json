@@ -47,23 +47,23 @@
       "urlPrenotazione": ""
     },
     {
-      "textStatoProgrammazione": "Prossimamente",
+      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "Resident Evil",
       "textOre": "",
       "allineamento": "D",
-      "dataNotifica": "",
+      "dataNotifica": "17/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
       "urlPrenotazione": ""
     },
     {
-      "textStatoProgrammazione": "Prossimamente",
+      "textStatoProgrammazione": "In Programmazione Dal: 27/08/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "INSIDIOUS: FUORI dALL’ALTROVE",
       "textOre": "",
       "allineamento": "D",
-      "dataNotifica": "19/08/2026",
+      "dataNotifica": "27/08/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
