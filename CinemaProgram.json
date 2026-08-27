@@ -3,10 +3,10 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/08/2026 al 25/08/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "OCEANIA",
-      "textOre": "18:30-20:30-22:30 ",
+      "textOre": "18:30-20:30 ",
       "allineamento": "D",
       "dataNotifica": "01/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=eJ7K9ZwR7Qg",
@@ -14,7 +14,19 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22150/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/08/2026 al 25/08/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "INSIDIOUS: FUORI dALL’ALTROVE",
+      "textOre": "22:30",
+      "allineamento": "D",
+      "dataNotifica": "27/08/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
+      "urlPrenotazione": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "ODISSEA",
       "textOre": "19:30",
@@ -25,7 +37,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/19902/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 19/08/2026 al 25/08/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "SPIDER-MAN:BRAND NEW DAY",
       "textOre": "22:30",
@@ -55,18 +67,6 @@
       "dataNotifica": "17/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
-      "urlPrenotazione": ""
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 27/08/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "INSIDIOUS: FUORI dALL’ALTROVE",
-      "textOre": "",
-      "allineamento": "D",
-      "dataNotifica": "27/08/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": ""
     }
   ]
