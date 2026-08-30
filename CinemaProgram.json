@@ -47,14 +47,14 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22013/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "DIGGER",
+      "textTitoloFilm": "COYOTE vs ACME",
       "textOre": "",
       "allineamento": "C",
-      "dataNotifica": "01/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/digger.jpg?raw=true",
+      "dataNotifica": "02/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/coyote.jpg?raw=true",
       "urlPrenotazione": ""
     },
     {
