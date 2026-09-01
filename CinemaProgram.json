@@ -3,10 +3,21 @@
   "chiusura": "eden",
   "listaFilm": [
     {
+      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "COYOTE vs ACME",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "C",
+      "dataNotifica": "02/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/coyote.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22160/113?settore=C"
+    },
+    {
       "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "OCEANIA",
-      "textOre": "18:30-20:30 ",
+      "textOre": "18:30-20:30",
       "allineamento": "D",
       "dataNotifica": "01/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=eJ7K9ZwR7Qg",
@@ -26,8 +37,8 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "ODISSEA",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
       "textOre": "19:30",
       "allineamento": "D",
       "dataNotifica": "16/07/2026",
@@ -37,25 +48,14 @@
     },
     {
       "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "SPIDER-MAN:BRAND NEW DAY",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
       "textOre": "22:30",
       "allineamento": "C",
       "dataNotifica": "29/07/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22013/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "COYOTE vs ACME",
-      "textOre": "",
-      "allineamento": "C",
-      "dataNotifica": "02/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/coyote.jpg?raw=true",
-      "urlPrenotazione": ""
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026",
