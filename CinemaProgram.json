@@ -3,7 +3,7 @@
   "chiusura": "eden",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026 al 08/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "COYOTE vs ACME",
       "textOre": "18:30-20:30-22:30",
@@ -14,7 +14,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22160/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 02/09/2026 al 08/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "OCEANIA",
       "textOre": "18:30-20:30",
@@ -25,7 +25,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22150/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 02/09/2026 al 08/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "INSIDIOUS: FUORI dALL’ALTROVE",
       "textOre": "22:30",
@@ -36,26 +36,26 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22228/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "19:30",
-      "allineamento": "D",
-      "dataNotifica": "16/07/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=9R58AyRe1RI",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/odissea.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/19902/113?settore=C"
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
+      "textOre": "",
+      "allineamento": "C",
+      "dataNotifica": "24/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=15ytrpjhs9c",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/avengers.jpg?raw=true",
+      "urlPrenotazione": ""
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 27/08/2026 al 01/09/2026",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "22:30",
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "DIGGER",
+      "textOre": "",
       "allineamento": "C",
-      "dataNotifica": "29/07/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=OHg1vv9NNXo",
+      "dataNotifica": "01/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw&t=10s",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/spider.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22013/113?settore=C"
+      "urlPrenotazione": ""
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026",
