@@ -3,6 +3,17 @@
   "chiusura": "eden",
   "listaFilm": [
     {
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
+      "textNomeCinema": "ACQUISTA IL TUO BIGLIETTO",
+      "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
+      "textOre": "18:30-22:00",
+      "allineamento": "C",
+      "dataNotifica": "24/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=15ytrpjhs9c",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/avengers.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
+    },
+    {
       "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026 al 08/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "COYOTE vs ACME",
@@ -34,17 +45,6 @@
       "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22228/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
-      "textOre": "",
-      "allineamento": "C",
-      "dataNotifica": "24/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=15ytrpjhs9c",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/avengers.jpg?raw=true",
-      "urlPrenotazione": ""
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
