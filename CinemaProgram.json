@@ -13,49 +13,50 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/avengers.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
     },
+    
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 02/09/2026 al 08/09/2026",
+      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "PAW Patrol: Missione Dinosauri",
+      "textOre": "18:30",
+      "allineamento": "C",
+      "dataNotifica": "10/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=C36MUY1LegE",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/paw.jpg?raw=true",
+      "urlPrenotazione": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "MUTINY",
+      "textOre": "20:30-22:30",
+      "allineamento": "U",
+      "dataNotifica": "10/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GVH5AxyWXeQ",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mutiny.jpg?raw=true",
+      "urlPrenotazione": ""
+    },
+    {
+      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "Amori & incantesimi 2",
+      "textOre": "18:00-20:15",
+      "allineamento": "C",
+      "dataNotifica": "10/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=DU1Q_diK3zo",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/amore.jpg?raw=true",
+      "urlPrenotazione": ""
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 10/09/2026 al 15/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "COYOTE vs ACME",
-      "textOre": "18:30-20:30-22:30",
+      "textOre": "22:30",
       "allineamento": "C",
       "dataNotifica": "02/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/coyote.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22160/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 02/09/2026 al 08/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "OCEANIA",
-      "textOre": "18:30-20:30",
-      "allineamento": "D",
-      "dataNotifica": "01/07/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=eJ7K9ZwR7Qg",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Oceania.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22150/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 02/09/2026 al 08/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "INSIDIOUS: FUORI DALL’ALTROVE",
-      "textOre": "22:30",
-      "allineamento": "D",
-      "dataNotifica": "27/08/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=ovnITQDbjUA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/insidius.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22228/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "DIGGER",
-      "textOre": "",
-      "allineamento": "C",
-      "dataNotifica": "01/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw&t=10s",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/digger.jpg?raw=true",
-      "urlPrenotazione": ""
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026",
