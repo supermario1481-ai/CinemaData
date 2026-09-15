@@ -13,9 +13,19 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/avengers.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
     },
-    
     {
-      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "Resident Evil",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "D",
+      "dataNotifica": "17/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22336/113?settore=C"
+    }
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "PAW Patrol: Missione Dinosauri",
       "textOre": "18:30",
@@ -26,21 +36,10 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22282/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "MUTINY",
-      "textOre": "20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "10/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GVH5AxyWXeQ",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mutiny.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22285/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "Amori & incantesimi 2",
-      "textOre": "18:00-20:15",
+      "textOre": "20:15",
       "allineamento": "C",
       "dataNotifica": "10/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=DU1Q_diK3zo",
@@ -48,25 +47,25 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22109/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 10/09/2026 al 15/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "COYOTE vs ACME",
+      "textTitoloFilm": "MUTINY",
       "textOre": "22:30",
-      "allineamento": "C",
-      "dataNotifica": "02/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/coyote.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22160/113?settore=C"
+      "allineamento": "U",
+      "dataNotifica": "10/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GVH5AxyWXeQ",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mutiny.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22285/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "Resident Evil",
+      "textTitoloFilm": "NESSUN DOLORE",
       "textOre": "",
       "allineamento": "D",
-      "dataNotifica": "17/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
+      "dataNotifica": "24/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/nessun.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": ""
     }
