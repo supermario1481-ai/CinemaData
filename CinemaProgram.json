@@ -15,7 +15,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textNomeCinema": "MULTISALA GRILLO - Biglietto 3.50€",
       "textTitoloFilm": "Resident Evil",
       "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
@@ -26,7 +26,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textNomeCinema": "MULTISALA GRILLO - Biglietto 3.50€",
       "textTitoloFilm": "PAW Patrol: Missione Dinosauri",
       "textOre": "18:30",
       "allineamento": "C",
@@ -37,7 +37,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textNomeCinema": "MULTISALA GRILLO - Biglietto 3.50€",
       "textTitoloFilm": "Amori & incantesimi 2",
       "textOre": "20:15",
       "allineamento": "C",
@@ -48,7 +48,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textNomeCinema": "MULTISALA GRILLO - Biglietto 3.50€",
       "textTitoloFilm": "MUTINY",
       "textOre": "22:30",
       "allineamento": "U",
@@ -59,9 +59,9 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
-      "textNomeCinema": "MAZARACINEMA",
+      "textNomeCinema": "CINEMAEDEN",
       "textTitoloFilm": "NESSUN DOLORE",
-      "textOre": "",
+      "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "24/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
