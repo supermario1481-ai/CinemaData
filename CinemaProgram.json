@@ -14,7 +14,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "Resident Evil",
       "textOre": "18:30-20:30-22:30",
@@ -25,7 +25,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22336/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "PAW Patrol: Missione Dinosauri",
       "textOre": "18:30",
@@ -36,7 +36,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22282/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "Amori & incantesimi 2",
       "textOre": "20:15",
@@ -47,7 +47,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22109/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 17/09/2026 al 22/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "MUTINY",
       "textOre": "22:30",
@@ -67,7 +67,7 @@
       "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/nessun.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
-      "urlPrenotazione": ""
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22334/114?settore=C"
     }
   ]
 }
