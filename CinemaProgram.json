@@ -1,10 +1,10 @@
 {
   "NOTE_ISTRUZIONI": "Chiusura: 'tutti', 'eden', 'grillo' , '0' , sopra: 'U' , Sotto: 'D' , Centro 'C', aCCAPO '\n' ",
-  "chiusura": "eden",
+  "chiusura": "0",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
-      "textNomeCinema": "ACQUISTA IL TUO BIGLIETTO",
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
+      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
       "textOre": "18:30-22:00",
       "allineamento": "C",
@@ -14,7 +14,7 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
       "textTitoloFilm": "Resident Evil",
       "textOre": "18:30-20:30-22:30",
@@ -25,49 +25,49 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22336/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
       "textNomeCinema": "MULTISALA GRILLO - 3.50€",
-      "textTitoloFilm": "PAW Patrol: Missione Dinosauri",
-      "textOre": "18:30",
-      "allineamento": "C",
-      "dataNotifica": "10/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=C36MUY1LegE",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/paw.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22282/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
-      "textTitoloFilm": "Amori & incantesimi 2",
-      "textOre": "20:15",
-      "allineamento": "C",
-      "dataNotifica": "10/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=DU1Q_diK3zo",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/amore.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22109/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 21/09/2026 al 24/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
-      "textTitoloFilm": "MUTINY",
-      "textOre": "22:30",
-      "allineamento": "U",
-      "dataNotifica": "10/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GVH5AxyWXeQ",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mutiny.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22285/113?settore=C"
+      "textTitoloFilm": "L'Isola Dei Ricordi",
+      "textOre": "18:30-20:30",
+      "allineamento": "D",
+      "dataNotifica": "24/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=y4TJhVJdME8",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/isola.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21158/113?settore=C"
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
-      "textNomeCinema": "CINEMAEDEN",
+      "textNomeCinema": "CINEMAEDEN - 3.50€",
       "textTitoloFilm": "NESSUN DOLORE",
       "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "24/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/nessun.jpg?raw=true",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22334/114?settore=C"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "DIGGER",
+      "textOre": "",
+      "allineamento": "C",
+      "dataNotifica": "01/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw&t=23s",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/digger.jpg?raw=true",
+      "urlPrenotazione": ""
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "Quasi Vera",
+      "textOre": "",
+      "allineamento": "U",
+      "dataNotifica": "01/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=KC5KFaRkAKc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/vera.jpg?raw=true",
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
+      "urlPrenotazione": ""
     }
   ]
 }
