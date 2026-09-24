@@ -4,7 +4,7 @@
   "listaFilm": [
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
       "textOre": "18:30-22:00",
       "allineamento": "C",
@@ -15,7 +15,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "Resident Evil",
       "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
@@ -26,7 +26,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO - 3.50€",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "L'Isola Dei Ricordi",
       "textOre": "18:30-20:30",
       "allineamento": "D",
@@ -37,7 +37,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
-      "textNomeCinema": "CINEMAEDEN - 3.50€",
+      "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "NESSUN DOLORE",
       "textOre": "18:30-20:30-22:30",
       "allineamento": "D",
@@ -59,7 +59,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
+      "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "Quasi Vera",
       "textOre": "",
       "allineamento": "U",
