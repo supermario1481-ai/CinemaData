@@ -3,10 +3,32 @@
   "chiusura": "",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "DIGGER",
+      "textOre": "18:00-20:15-22:30",
+      "allineamento": "C",
+      "dataNotifica": "01/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw&t=23s",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/digger.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22430/113?settore=C"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "QUASI VERA",
+      "textOre": "18:30-20:30",
+      "allineamento": "U",
+      "dataNotifica": "01/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=KC5KFaRkAKc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/vera.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22409/113?settore=C"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "AVENGERS ENDGAME: EXTRA",
-      "textOre": "18:30-22:00",
+      "textOre": "22:00",
       "allineamento": "C",
       "dataNotifica": "24/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=15ytrpjhs9c",
@@ -14,32 +36,10 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22246/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "Resident Evil",
-      "textOre": "18:30-20:30-22:30",
-      "allineamento": "D",
-      "dataNotifica": "17/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=w_k72lFKSkc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/resident.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22336/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026 al 29/09/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "L'Isola Dei Ricordi",
-      "textOre": "18:30-20:30",
-      "allineamento": "D",
-      "dataNotifica": "24/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=y4TJhVJdME8",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/isola.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21158/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 24/09/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "NESSUN DOLORE",
-      "textOre": "18:30-20:30-22:30",
+      "textOre": "18:30",
       "allineamento": "D",
       "dataNotifica": "24/09/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
@@ -47,27 +47,27 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22334/114?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "DIGGER",
-      "textOre": "",
-      "allineamento": "C",
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "VERITY",
+      "textOre": "20:30-22:30",
+      "allineamento": "D",
       "dataNotifica": "01/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=A3984R3krZw&t=23s",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/digger.jpg?raw=true",
-      "urlPrenotazione": ""
+      "urlTrailer": "https://www.youtube.com/watch?v=1t1pGIyBGDc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/verity.jpg?raw=true",
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22494/114?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026",
-      "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "Quasi Vera",
-      "textOre": "",
-      "allineamento": "U",
-      "dataNotifica": "01/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=KC5KFaRkAKc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/vera.jpg?raw=true",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
-      "urlPrenotazione": ""
+      "textStatoProgrammazione": "",
+      "textNomeCinema": "",
+      "textTitoloFilm": "",
+      "textOre": "18:30-20:30",
+      "allineamento": "D",
+      "dataNotifica": "24/09/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=y4TJhVJdME8",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/isola.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21158/113?settore=C"
     }
   ]
 }
