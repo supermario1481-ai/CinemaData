@@ -55,7 +55,6 @@
       "dataNotifica": "01/10/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=1t1pGIyBGDc",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/verity.jpg?raw=true",
-      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22494/114?settore=C"
     },
     {
@@ -67,6 +66,7 @@
       "dataNotifica": "08/10/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=NPrZJsxGz94",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mammina.jpg?raw=true",
+      "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": ""
     }
   ]
