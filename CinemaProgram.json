@@ -3,8 +3,19 @@
   "chiusura": "",
   "listaFilm": [
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 16/12/2026",
       "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "AVENGERS: DOOMSDAY",
+      "textOre": "",
+      "allineamento": "D",
+      "dataNotifica": "16/12/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=gUth3APCeyg",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/doomsday.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22699/113?settore=C"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "DIGGER",
       "textOre": "18:00-20:15-22:30",
       "allineamento": "C",
@@ -15,7 +26,7 @@
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
-      "textNomeCinema": "MAZARACINEMA",
+      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "QUASI VERA",
       "textOre": "18:30-20:30",
       "allineamento": "U",
@@ -38,17 +49,6 @@
     {
       "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "NESSUN DOLORE",
-      "textOre": "18:30",
-      "allineamento": "D",
-      "dataNotifica": "24/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=NruSqSJN8n8",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/nessun.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22334/114?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 01/10/2026 al 06/10/2026",
-      "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "VERITY",
       "textOre": "20:30-22:30",
       "allineamento": "D",
@@ -59,15 +59,15 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22494/114?settore=C"
     },
     {
-      "textStatoProgrammazione": "",
-      "textNomeCinema": "",
-      "textTitoloFilm": "",
-      "textOre": "18:30-20:30",
+      "textStatoProgrammazione": "In Programmazione Dal: 08/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "MAMMINA",
+      "textOre": "",
       "allineamento": "D",
-      "dataNotifica": "24/09/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=y4TJhVJdME8",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/isola.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21158/113?settore=C"
+      "dataNotifica": "08/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=NPrZJsxGz94",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mammina.jpg?raw=true",
+      "urlPrenotazione": ""
     }
   ]
 }
