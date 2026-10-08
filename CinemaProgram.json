@@ -22,7 +22,7 @@
       "dataNotifica": "08/10/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=NPrZJsxGz94",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mammina.jpg?raw=true",
-      "urlPrenotazione": ""
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21315/113?settore=C"
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 08/10/2026 al 13/10/2026",
@@ -33,7 +33,7 @@
       "dataNotifica": "08/10/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=PWNvM1_kdlw",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/naza.jpg?raw=true",
-      "urlPrenotazione": ""
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22488/113?settore=C"
     },
     {
       "textStatoProgrammazione": "In Programmazione Dal: 08/10/2026 al 13/10/2026",
@@ -67,7 +67,7 @@
       "urlTrailer": "https://www.youtube.com/watch?v=9HEhuOCTsm0",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/estranea.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
-      "urlPrenotazione": ""
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22259/114?settore=C"
     }
   ]
 }
