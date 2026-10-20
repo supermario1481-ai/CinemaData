@@ -14,18 +14,18 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22699/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 15/10/2026 al 20/10/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 22/10/2026 al 27/10/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "MAMMINA",
-      "textOre": "20:30-22:30",
-      "allineamento": "D",
-      "dataNotifica": "08/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=NPrZJsxGz94",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/mammina.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/21315/113?settore=C"
+      "textTitoloFilm": "CLAYFACE",
+      "textOre": "18:30-20:30-22:30",
+      "allineamento": "C",
+      "dataNotifica": "22/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=PiqMoq2gmBs",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/clay.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22433/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 15/10/2026 al 20/10/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 22/10/2026 al 27/10/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "JE SO' PAZZO",
       "textOre": "18:30-20:30-22:30",
@@ -36,21 +36,21 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22579/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 15/10/2026 al 20/10/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "CARLO ACUTIS",
-      "textOre": "18:30",
-      "allineamento": "D",
-      "dataNotifica": "08/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=J-VK6mJSBas",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/acutis.jpg?raw=true",
-      "urlPrenotazione": ""
+      "textStatoProgrammazione": "In Programmazione Dal: 22/10/2026 al 27/10/2026",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "WILDWOOD: I Segreti del Bosco Proibito",
+      "textOre": "18:30-20:30",
+      "allineamento": "U",
+      "dataNotifica": "22/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=w4co1EFBeQQ",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/wild.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22582/114?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 15/10/2026 al 20/10/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 22/10/2026 al 27/10/2026",
       "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "WHALEFALL - NELLA BALENA",
-      "textOre": "18:30-20:30-22:00",
+      "textOre": "22:00",
       "allineamento": "D",
       "dataNotifica": "08/10/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=7pTtqLrA-Q8",
@@ -58,14 +58,14 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22650/114?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 22/10/2026",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "CLAYFACE",
+      "textStatoProgrammazione": "In Programmazione Dal: 29/10/2026",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "DIO RIDE",
       "textOre": "",
       "allineamento": "C",
-      "dataNotifica": "22/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=PiqMoq2gmBs",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/clay.jpg?raw=true",
+      "dataNotifica": "29/10/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dio.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
       "urlPrenotazione": ""
     }
