@@ -14,60 +14,60 @@
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22699/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 05/11/2026 al 10/11/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026 al 17/11/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "SE DOMANI NON TORNO",
-      "textOre": "16:30F-18:30-20:30-22:30",
+      "textOre": "16:30F-20:30-22:30",
       "allineamento": "C",
-      "dataNotifica": "05/11/2026",
+      "dataNotifica": "12/11/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=9Xrchly8uTY",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/se.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22189/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 05/11/2026 al 10/11/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026 al 17/11/2026",
+      "textNomeCinema": "MULTISALA GRILLO",
+      "textTitoloFilm": "DIO RIDE",
+      "textOre": "18:30",
+      "allineamento": "C",
+      "dataNotifica": "12/11/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dio.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22281/113?settore=C"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026 al 17/11/2026",
       "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "IL GATTO COL CAPPELLO",
-      "textOre": "16:30F-18:30",
+      "textOre": "16:30(Sab/Dom)",
       "allineamento": "C",
-      "dataNotifica": "05/11/2026",
+      "dataNotifica": "12/11/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=1aMZlTtP-MM",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/gatto.jpg?raw=true",
       "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22438/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 05/11/2026 al 10/11/2026",
+      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026 al 17/11/2026",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-      "textOre": "20:30-22:30",
-      "allineamento": "U",
-      "dataNotifica": "22/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=eDoEklQ1JKA",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/fun.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22736/113?settore=C"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione Dal: 05/11/2026 al 10/11/2026",
-      "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "DIO RIDE",
+      "textTitoloFilm": "SCROOGE E GLI SPIRITI DEL NATALE",
       "textOre": "18:30-20:30-22:30",
-      "allineamento": "C",
-      "dataNotifica": "29/10/2026",
-      "urlTrailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/dio.jpg?raw=true",
-      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22281/114?settore=C"
+      "allineamento": "U",
+      "dataNotifica": "12/11/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=nnGEmv79mZQ",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/scrooge.jpg?raw=true",
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22780/113?settore=C"
     },
     {
-      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026",
-      "textNomeCinema": "MAZARACINEMA",
+      "textStatoProgrammazione": "In Programmazione Dal: 12/11/2026 al 17/11/2026",
+      "textNomeCinema": "CINEMA EDEN",
       "textTitoloFilm": "IL RUMORE DELLE COSE NUOVE",
-      "textOre": "",
+      "textOre": "16:30F-18:30-20:30-22:30",
       "allineamento": "D",
       "dataNotifica": "12/11/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/rdc.jpg?raw=true",
       "prezzoTariffa": "Ridotto:7.00€ - Intero:8.00€\nRidotto3D:8.00€ -Intero3D:9.00€",
-      "urlPrenotazione": ""
+      "urlPrenotazione": "https://www.2tickets.it/biglietto/Acquisto/Checkout/22850/114?settore=C"
     }
   ]
 }
